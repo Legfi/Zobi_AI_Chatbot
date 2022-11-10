@@ -1,6 +1,7 @@
 gTTS==2.2.3
 playsound==1.2.2
 SpeechRecognition==3.8.1
+pyaudio
 Flask==2.2.2
 transformers==4.23.1
 torch
