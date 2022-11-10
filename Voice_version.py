@@ -1,8 +1,9 @@
 import speech_recognition as sr
 from gtts import gTTS
 import os
-import time
 import playsound
+import warnings
+warnings.filterwarnings("ignore")
 
 #import the model class and the tokenizer
 from transformers import BlenderbotTokenizer, BlenderbotForConditionalGeneration
