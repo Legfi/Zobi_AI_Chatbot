@@ -1,0 +1,1 @@
+This is a school project for learning how chatbots works
